@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VSasidhar
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Docker and GCP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning and understanding new technologies.
+- 🌱 I’m currently LearningFroned End Development
+- 💞️ I have had more than decage of exterience in Automation and Manual Testing
+- 📫 Have Worked on selenium, Cucumber, Cypress, Karate, Rest Assured.
 
 <!---
 VSasidhar/VSasidhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
